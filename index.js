@@ -6,3 +6,4 @@ fs.createReadStream('data.csv')
   .on('data', (row) => {
     console.log(row);
   })
+ 
