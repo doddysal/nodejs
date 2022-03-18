@@ -7,3 +7,4 @@ fs.createReadStream('data.csv')
     console.log(row);
   })
  
+// butuh install csv parser :  npm install csv-parser
